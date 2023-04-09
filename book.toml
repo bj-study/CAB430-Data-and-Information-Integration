@@ -1,0 +1,9 @@
+[book]
+authors = ["Brook Jeynes"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CAB430-Data-and-Information-Integration"
+
+[output.html]
+mathjax-support = true
